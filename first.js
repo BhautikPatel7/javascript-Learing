@@ -5,13 +5,13 @@ alert("hello");
 alert("Hello! Are you Intrested to learning Java Script" +" " +10)
 confirm("Are you intrested")
 console.log("log is working")
-prompt("I Am Starting","yes");\
+prompt("I Am Starting","yes");
 document.write("<h1>hello charms</h1>");
 document.write("hello")
 prompt("plese enter a name","my name");
 confirm("do you want to login")
 var x = document.getElementById("hy").innerHTML = "<h1> Have you Heard about Java Script</h1>";
-console.log(x);\
+console.log(x);
 var x = document.getElementsByClassName("first")[0].innerHTML = "Hello Everyone";
 alert(x);
 var x = document.getElementsByClassName("first")[1].innerHTML = "Intresting langauge";
